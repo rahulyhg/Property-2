@@ -1,0 +1,90 @@
+<resources>
+    <string name="app_name">Property</string>
+    <string name="version_1_0">Version 1.0</string>
+
+    <string name="pivotalsoft_it_services_pvt_ltd">© Pivotalsoft IT Services Pvt. Ltd.</string>
+
+    <string name="Apikey">AIzaSyAt4p3jHdcNJNWrKJdHi00SPrYaU4c9EC8</string>
+    <string name="title_activity_bottam_navgation">BottamNavgationActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="search">Search</string>
+    <string name="my_favorites">My Favorites</string>
+    <string name="my_leads">My Leads</string>
+    <string name="my_properties">My Properties</string>
+    <string name="_1080_sqft_2_bhk_apartment_flat_for_rent_at_mk_towers_in_lalithanagar_vishakapatnam">1080 Sqft - 2 BHK Apartment Flat for Rent at Mk Towers in Lalithanagar Vishakapatnam</string>
+    <string name="on_jan_08_2018_by_venkata_rao_vankayala_individual">on Jan 08,2018 by venkata rao vankayala (individual)</string>
+    <string name="rent">Rent</string>
+    <string name="property_type">Property type</string>
+    <string name="bedrooms">Bedrooms</string>
+    <string name="_2_bhk">2 BHK</string>
+    <string name="built_up_area">Built-up area</string>
+    <string name="_1080_sq_feet">1080 Sq Feet</string>
+    <string name="deposit">Deposit</string>
+    <string name="_54000">54000</string>
+    <string name="floor_number">Floor number</string>
+    <string name="_1">1</string>
+    <string name="rent_type">Rent type</string>
+    <string name="furnished">Furnished</string>
+    <string name="fully_furnished">Fully Furnished</string>
+    <string name="food">Food</string>
+    <string name="veg_non_veg">Veg/Non Veg</string>
+    <string name="preferred_tenant">Preferred tenant</string>
+    <string name="family">Family</string>
+    <string name="landmark">Landmark</string>
+    <string name="shankaramatam">Shankaramatam</string>
+    <string name="amenities">Amenities</string>
+    <string name="rain_water_harvesting">Rain Water Harvesting</string>
+    <string name="property_description">Property description</string>
+    <string name="this_place_is_2_4kms_from_railway_station_and_etc_complex">This place is 2-4kms from Railway station and ETC complex</string>
+    <string name="parking">Parking</string>
+    <string name="security">Security</string>
+    <string name="contact_advertiser">CONTACT ADVERTISER</string>
+    <string name="fully_furnished_flat">Fully furnished flat</string>
+    <string name="_9490833955">9490833955</string>
+    <string name="_3000">$ 3000</string>
+    <string name="name">Name</string>
+    <string name="email_id">Email ID</string>
+    <string name="_10_digit_mobile_number">10-digit mobile number</string>
+    <string name="please_enter_a_valid_mobile_number_we_will_send_a_6_digit_verification_code_to_this_number">Please enter a valid mobile number. We will send a 6-digit verification code to this number.</string>
+    <string name="please_provide_your_contact_details">Please provide your contact details</string>
+    <string name="submit">Submit</string>
+    <string name="apartment">Apartment</string>
+    <string name="villa">Villa</string>
+    <string name="builder_floor">Builder Floor</string>
+    <string name="locality">Locality</string>
+    <string name="price_range">Price Range :</string>
+    <string name="_0_99000">0-99000</string>
+    <string name="no_of_bed_rooms">No of Bed Rooms</string>
+    <string name="ad_posted_date">Ad Posted Date</string>
+    <string name="in_a_month">In a month</string>
+    <string name="in_two_weeks">In two weeks</string>
+    <string name="in_a_week">In a week</string>
+    <string name="in_24_hours">In 24 hours</string>
+    <string name="apply">Apply</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="users">Users</string>
+    <string name="properties">Properties</string>
+    <string name="leads">Leads</string>
+    <string name="deals">Deals</string>
+
+
+    <string name="verify_note">To get access to Property , Plots and Flats more, kindly log in with your mobile number.</string>
+    <string name="code_instructions">Your details would never be shared</string>
+    <string name="profile">profile</string>
+    <string name="share_app">share app</string>
+    <string name="signout">signout</string>
+    <string name="certificates">Certificates</string>
+    <string name="add_new_certifications">add_new_certifications</string>
+    <string name="documents">Documents</string>
+    <string name="add_new_documents">add_new_documents</string>
+    <string name="document_type">Document Type</string>
+    <string name="certificate_type">Certificate Type</string>
+
+
+</resources>
